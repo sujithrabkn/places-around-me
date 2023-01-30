@@ -16,7 +16,7 @@ Edit the readme.md file and push the files to the GitHub to display the contents
 ## Code:
 
 ### In map.html:
-
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -40,9 +40,9 @@ Edit the readme.md file and push the files to the GitHub to display the contents
         </center>
     </body>
 </html>
-
+```
 ### In place1.html:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -66,9 +66,9 @@ Shree Niketan practices what it preaches. Students are also taken to nearby haml
 </p>
 </body>
 </html>
-
+```
 ### In place2.html:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -93,9 +93,9 @@ Fest of cakes.
 </p>
 </body>
 </html>
-
+```
 ### In place3.html:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -139,9 +139,9 @@ Restaurant is completely filled natural plants with impeccable ambience to give 
 </p>
 </body>
 </html>
-
+```
 ### In place5.html:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -163,36 +163,36 @@ Tamilnadu Pincode of Vishwaroopa Sai Baba Temple, Tiruvallur is 600087 in India<
 </p>
 </body>
 </html>
-
+```
 ## Output:
 
 ### Map:
 
-![map](/exp04/screenshots/out1.png)
+/home/sec/Pictures/Screenshots/out1.png
 
 ### Place1:
 
-![place1](/exp04/screenshots/out2.png)
+/home/sec/Pictures/Screenshots/out2.png
 
 ### Place2:
 
-![place2](/exp04/screenshots/out3.png)
+/home/sec/Pictures/Screenshots/ou3.png
 
 ### Place3:
 
-![place3](/exp04/screenshots/out4.png)
+/home/sec/Pictures/Screenshots/ou4.png
 
 ### Place4:
 
-![place4](/exp04/screenshots/out5.png)
+/home/sec/Pictures/Screenshots/out5.png
 
 ### Place5:
 
-![place5](/exp04/screenshots/out6.png)
+/home/sec/Pictures/Screenshots/out6.png
 
 ### valid:
 
-![valid](/exp04/screenshots/out7.png)
+/home/sec/Pictures/Screenshots/out7.png
 
 ## Result:
 Image mapping website created and executed successfully.
